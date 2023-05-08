@@ -6,8 +6,9 @@
 • 🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
 • 🔥 Desenvolvedor Front end JR, futuro Dev Full Stack <br>
 • 💬 Estou no 2º Semestre de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida - UVA_RJ <br>
-• 🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript e SASS <br><br>
-• ⚡ Fun fact: No mundo dos Games sou conhecido como 2P e sou mono Lee Sin 😎 <img align="center" height="80" width="150" src="https://media.tenor.com/S4xlGgkcxmIAAAAi/lee-sin.gif"><br>
+• 🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript e SASS <br>
+• ⚡ Fun fact: Nos Games sou conhecido como 2P e sou mono Lee Sin 😎 
+<img align="center" height="80" width="150" src="https://media.tenor.com/S4xlGgkcxmIAAAAi/lee-sin.gif"><br>
 
 
 
