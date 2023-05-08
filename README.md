@@ -1,19 +1,21 @@
 ### <h1 align="center"> Olá👋, Me chamo Paulo Ricardo ! </h1>
 
 # 🧔🏻‍♂️ Sobre mim:
-<br>
 
-•🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
-•🔥 Desenvolvedor Front end JR, futuro Dev Full Stack <br>
-•💬 Estou no 2º Semestre de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida - UVA_RJ <br>
-•🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript e SASS <br>
-•⚡ Fun fact: No mundo dos Games sou conhecido como 2P 😎
+### <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g">
+• 🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
+• 🔥 Desenvolvedor Front end JR, futuro Dev Full Stack <br>
+• 💬 Estou no 2º Semestre de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida - UVA_RJ <br>
+• 🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript e SASS <br><br>
+• ⚡ Fun fact: No mundo dos Games sou conhecido como 2P e sou mono Lee Sin 😎 <img align="center" height="80" width="150" src="https://media.tenor.com/S4xlGgkcxmIAAAAi/lee-sin.gif"><br>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
