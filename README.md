@@ -2,7 +2,7 @@
 
 # 🧔🏻‍♂️ Sobre mim:
 
-### <img align="right" width="50%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g">
+### <img align="right" width="40%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g">
 • 🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
 • 🔥 Desenvolvedor Front end JR, futuro Dev Full Stack <br>
 • 💬 Estou no 2º Semestre de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida - UVA_RJ <br>
