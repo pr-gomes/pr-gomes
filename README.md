@@ -6,7 +6,7 @@
 • 🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
 • 🔥 Desenvolvedor Front end JR, futuro Dev Full Stack <br>
 • 💬 Estou no 3º Semestre de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida - UVA_RJ <br>
-• 🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript e SASS <br>
+• 🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript para futuramente começar a estudar framework Angular e React.js <br>
 • ⚡ Fun fact: Nos Games sou conhecido como PR , jogo League of Legends e sou mono Lee Sin 😎 
 <img align="center" height="80" width="150" src="https://media.tenor.com/S4xlGgkcxmIAAAAi/lee-sin.gif"><br>
 
