@@ -2,11 +2,11 @@
 
 # 🧔🏻‍♂️ Sobre mim:
 
-### <img align="right" width="40%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g">
+### <img border-radios="20px" align="right" width="40%" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oz1ey4dlvjq9lkh4g9u5tprizv0rw4oh0fzxxybm&rid=giphy.gif&ct=g">
 • 🕹️ Sou um amante e entusiasta de games e tecnologia ! <br>
 • 🔥 Desenvolvedor Front end, futuro Dev Full Stack <br>
 • 💬 Estou cursando 3º Semestre de Análise e Desenvolvimento de Sistemas pela Universidade Veiga de Almeida - UVA_RJ <br>
-• 🌱 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meu Javascript para futuramente começar a estudar framework Angular e React.js. Parelalemente estou participando do bootcamp DIO/Santander - Aonde estou estudando Javascript, Angular.js, Java, spring e SQL. <br>
+• 🧠 Atualmente estudo Front end pelos cursos Alura, aonde estou estudando e aperfeiçoando meus conhecimentos de Javascript para futuramente começar a estudar Typescript e alguma framework Angular e React.js. Parelalemente estou participando do bootcamp DIO/Santander - Aonde estou estudando Javascript, Angular.js, Java, spring e SQL. <br>
 • ⚡ Fun fact: Nos Games sou conhecido como PR , jogo CSGO;  
 
 
@@ -14,6 +14,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
